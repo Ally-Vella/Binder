@@ -3,8 +3,9 @@ channels:
   - conda-forge
   - r
   - defaults
-  - pyvizhttps://github.com/Ally-Vella/Blender/blob/master/environment.yml
+  - pyviz
 dependencies:
+  - python=3.7
   - hvplot
   - jupyter
   - notebook
